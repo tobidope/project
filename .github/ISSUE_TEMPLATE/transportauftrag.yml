@@ -4,7 +4,7 @@ about: Transportauftrag für Anpassungen
 title: Transport Dokumente für [release, change] in Umgebung [umgebung]
 labels: ''
 assignees: ''
-projects: projects/2
+projects: "projects/2"
 body:
 - type: dropdown
   id: release
